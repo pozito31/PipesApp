@@ -14,6 +14,7 @@ import { FieldsetModule } from 'primeng/fieldset';
 import localeEs from '@angular/common/locales/es';
 import localeFr from '@angular/common/locales/fr';
 import { registerLocaleData } from '@angular/common';
+
 registerLocaleData( localeEs );
 registerLocaleData( localeFr );
 
